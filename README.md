@@ -1,14 +1,11 @@
-# 走るか寝るかするメロス
+# 桃太郎
 
 ## 概要
 
-ティラノスクリプトのサンプルコード。
+桃太郎の昔話をもとにした、選択肢で物語が分岐する短編ノベルゲームです。画像を使わず、テキストだけで2つの結末を楽しめます。
 
 * [テストプレイ](https://appi-github.github.io/tyrano_sample/)
 
 ## ライセンス
 
-ここで作成されたスクリプト(`first.ks`)に関してはCC0。ティラノスクリプトについては[配布元](https://tyrano.jp/)のライセンスに従います。`docs/bgimage`以下にあるファイルは、Pexcelsからダウンロードしたものです。
-
-* `run.jpg` by Maksim Romashkin
-* `sleep.jpg` by Andrea Piacquadio
+ここで作成されたスクリプト(`first.ks`)に関してはCC0。ティラノスクリプトについては[配布元](https://tyrano.jp/)のライセンスに従います。
